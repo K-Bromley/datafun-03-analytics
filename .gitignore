@@ -1,1 +1,6 @@
+# The following should not be tracked in git
+
+# Virtual environment folders
 .venv/
+
+.vscode/
