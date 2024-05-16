@@ -16,3 +16,9 @@ git add .
 git commit -m "add .gitignore, cmds to readme" 
 git push origin main
 ```
+
+# Two options for Git Push
+
+```bash
+git push origin main
+git push -u origin main
