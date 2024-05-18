@@ -22,3 +22,12 @@ git push origin main
 ```bash
 git push origin main
 git push -u origin main
+```
+
+# Installing in terminal
+
+``` bash
+python3 -m pip install requests
+pip3 install pandas
+pip3 install xlrd
+```
